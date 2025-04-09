@@ -10,7 +10,7 @@ spec:
   project: default
   source: 
     path: guestbook
-    repoURL: "https://github.com/simoneauriemma/argocd-demo.git"
+    repoURL: "https://github.com/simoneauriemma/argocd-demo"
     targetRevision: master
   syncPolicy:
     syncOptions:
